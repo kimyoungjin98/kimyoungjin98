@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungjin98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1><p align="center">:sparkles:Stacks:sparkles:</p>
+<h1><p align="center">:sparkles:Tech Stacks:sparkles:</p>
 
 
 <p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

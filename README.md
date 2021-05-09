@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </p>
 
-<h1><p align="center">:notes:Other:notes:
+<h1><p align="center">:notes:Others:notes:
   
 <p align="center">  
 <a href="https://www.facebook.com/gyu250"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"/>

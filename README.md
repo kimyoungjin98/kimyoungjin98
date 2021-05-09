@@ -8,5 +8,5 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20)
+![footer](https://capsule-render.vercel.app/api?section=footertype=waving&color=gradient&text=%20)
 

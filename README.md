@@ -10,4 +10,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient&text=%20%20%20&height=200&fontSize=90)
 
 
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient)
+
+
 

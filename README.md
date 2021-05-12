@@ -25,4 +25,4 @@
 <h3><p align="center">e-mail :point_right: gyu250@naver.com </p> </h3>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&text=%20)
-
+ 

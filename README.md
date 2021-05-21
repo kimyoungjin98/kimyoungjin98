@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20YoungJinn%20%20&height=200&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30,f7cac9,92a8d1&text=%20YoungJinn%20%20&height=200&fontSize=90)
 
 
 

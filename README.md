@@ -33,6 +33,11 @@
   </p>
 
 <h3><p align="center">e-mail :point_right: gyu250@naver.com </p> </h3>
+  
+![snake gif](https://github.com/kimyoungjin98/kimyoungjin98/blob/output/github-contribution-grid-snake.svg)
+  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&text=%20)
  
+  
+  

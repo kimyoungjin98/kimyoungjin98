@@ -1,8 +1,15 @@
-name: generate animation
+# 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
+
+name: Generate Snake
+
+# Action이 언제 구동될지 결정
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    # 6시간마다 한 번(수정 가능)
+    - cron: "0 */6 * * *"
+
+  # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
 
 jobs:

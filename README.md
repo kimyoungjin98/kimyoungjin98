@@ -1,16 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20YoungJinn%20%20&height=200&fontSize=90)
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js,Java,HTML)](https://github.com/kimyoungjin98)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&nbsp;and&nbsp;Framework&badges=JavaScript,React,Java,HTML,nodejs,MongoDB,jQuery)](https://github.com/kijepark)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database&nbsp;and&nbsp;DevelOps=Oracle,MySQL,Git)](https://github.com/kijepark)
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kimyoungjin98&repo=TeamProject_Malang)](https://github.com/kimyoungjin98/TeamProject_Malang)
 
 
-[![youngjinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungjin98&count_private=true&custom_title=Youngjinn&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![youngjinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungjin98&count_private=true&custom_title=Youngjinn&nbsp;github&nbsp;&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungjin98&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1><p align="center">:sparkles:Tech Stacks:sparkles:</p>
+<h1><p align="center">:sparkles:Tech Stacks:sparkles:</p> -->
 
 
  
-  <p align="center">
+<!--   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   </p>
@@ -26,7 +33,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
-<h1><p align="center">:notes:Others:notes:
+<h1><p align="center">:notes:Others:notes: -->
   
   
   
@@ -36,9 +43,6 @@
   </p>
 
 <h3><p align="center">e-mail :point_right: gyu250@naver.com </p> </h3>
-  
-![snake gif](https://github.com/kimyoungjin98/kimyoungjin98/blob/output/github-contribution-grid-snake.svg)
-  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&text=%20)
  

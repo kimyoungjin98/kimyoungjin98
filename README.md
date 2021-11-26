@@ -5,6 +5,7 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database&nbsp;and&nbsp;DevelOps&badges=Oracle,MySQL,Git)](https://github.com/kijepark)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kimyoungjin98&repo=TeamProject_Malang)](https://github.com/kimyoungjin98/TeamProject_Malang)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kimyoungjin98&repo=Toy_Project)](https://github.com/kimyoungjin98/Toy_Project)
 
 
 

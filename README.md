@@ -43,8 +43,6 @@
 <a href="https://www.instagram.com/yj___98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </p> -->
 
-<h3><p align="center">e-mail :point_right: gyu250@naver.com </p> </h3>
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&text=%20)
  
   

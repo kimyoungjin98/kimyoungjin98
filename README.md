@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20YoungJinn%20%20&height=200&fontSize=90)
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=javascript,nestjs,angularjs)](https://github.com/kimyoungjin98)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=nestjs,angularjs,react)](https://github.com/kimyoungjin98)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&nbsp;and&nbsp;Framework&badges=JavaScript,Angular,NestJs,React,Java,nodejs,MongoDB,jQuery,Spring,SpringBoot)](https://github.com/kijepark)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database&nbsp;and&nbsp;DevelOps&badges=Oracle,MySQL,Git)](https://github.com/kijepark)
 

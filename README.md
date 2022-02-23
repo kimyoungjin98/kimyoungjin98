@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungjin98&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=nestjs,angularjs,Typescript)](https://github.com/kimyoungjin98)
+<!-- [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=nestjs,angularjs,Typescript)](https://github.com/kimyoungjin98) -->
 
 <h1><p align="center">:sparkles:Tech Stacks:sparkles:</p>
  
